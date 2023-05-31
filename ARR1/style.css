@@ -1,0 +1,26 @@
+body{
+    background-color: #ebe8e8;
+}
+.form{
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+.login{
+    display: flex;
+    align-items: center;
+    height: 100vh;
+}
+#brand{
+    width: 60px;
+}
+.form-sigin{
+    max-width: 330px;
+    padding: 15px;
+}
+.m-auto{
+    margin: auto!important;
+}
+.w-100{
+    width: 100%!important;
+}
